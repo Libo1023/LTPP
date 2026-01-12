@@ -1,6 +1,7 @@
 # RE-NET Training, Validation, and Test 
 
 cd backbone2_renet/
+mkdir models 
 cd reproduce_commands/
 
 # ICEWS14 
