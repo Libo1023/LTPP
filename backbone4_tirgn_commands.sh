@@ -1,6 +1,7 @@
 # TiRGN Training, Validation, and Test 
 
 cd backbone4_tirgn/
+mkdir models 
 cd src/
 
 # ICEWS14 
