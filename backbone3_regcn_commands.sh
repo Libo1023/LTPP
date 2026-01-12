@@ -1,6 +1,7 @@
 # RE-GCN Training, Validation, and Test 
 
 cd backbone3_regcn/
+mkdir models 
 cd src/
 
 # ICEWS14 
