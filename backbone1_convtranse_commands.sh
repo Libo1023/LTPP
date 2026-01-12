@@ -1,6 +1,7 @@
 # ConvTransE Training, Validation, and Test 
 
 cd backbone1_convtranse/
+mkdir models
 cd src/
 
 # ICEWS14 
