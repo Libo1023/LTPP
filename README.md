@@ -1,4 +1,4 @@
-# Long-Tail Post-Processing for Temporal Knowledge Graph Reasoning 
+# Long-Tail Calibration for Temporal Knowledge Graph Reasoning 
 
 ## Environment Setup 
 
